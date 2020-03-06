@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Weather Logger</string>
+
+    <string name="API_KEY" translatable="false">e3c2946daf5d107db49716a57d3c1292</string>
+
+    <string name="temperature">Temperature: %s℃</string>
+    <string name="date">Date: %s</string>
+    <string name="more_details">More Details</string>
+    <string name="action_settings">Setting</string>
+    <string name="GPSAlertDialogTitle">Permission</string>
+    <string name="GPSAlertDialogMessage">Allow Weather Logger to access this device\'s location?</string>
+    <string name="city_name">City Name</string>
+    <string name="lessDetails">Less Details</string>
+    <string name="save">SAVE</string>
+    <string name="list">List</string>
+    <string name="temp">Temp</string>
+    <string name="data_saved">Data Saved Successfully!!!</string>
+
+    <string name="humidity">Humidity: %s</string>
+</resources>
